@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins', Georgia, Arial;
+    font-weight: 300;
+    font-weight: 500;
+    background-color: #DFD9E2;
+}
+h1{
+    text-decoration: underline;
+    font-weight: 600;
+}
+h1, h2, h3{
+    color: #865B9A;
+    font-weight: bold;
+}
+h1, h2{
+    text-align: center;
+}
+.inleiding{
+    font-weight: bold;
+}
+
